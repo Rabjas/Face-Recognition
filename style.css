@@ -1,0 +1,22 @@
+.heading{
+    width: 80%;
+    font-size: 28px;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+body{
+    color: white;
+    background :linear-gradient(to bottom right,yellow,blue,salmon,lime) ;
+}
+.name_of_objects{
+    color: rgb(0, 255, 200);
+    font-size: 15;
+}
+#camera{
+    border:4px dashed black  ;
+    width: 350;
+    height: 300px;
+}
+.result_name,.result_accuracy{
+    color: black;
+}
